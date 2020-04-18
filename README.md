@@ -2,7 +2,7 @@
 
 ## About me web page.
 
-This is my first website where you will be able to learn a little about me, there is also a few photos of of myself and a part of my family.  
+This is a second version of my first website. Here I used Bootstrap css to re-format my Portfolio, Biography and also my contact page. There are a few changes in the layout which should prove interesting.  
 
 
 ---
