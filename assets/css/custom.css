@@ -7,9 +7,8 @@ body {
        .brand {
          margin-left: 14%;
        }
-       .navbar {
-          position: fixed;
-          width: 100%;
+       .navbar {        
+          background-color: grey;
        }
 
      .bio-row{
