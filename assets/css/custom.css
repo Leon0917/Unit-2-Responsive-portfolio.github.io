@@ -2,8 +2,16 @@ body {
     background-image: url("../images/floor-tile.png")
        }
     .leon {
-        color:aqua;
+      margin-left: 6%;
        }
+       .brand {
+         margin-left: 14%;
+       }
+       .navbar {
+          position: fixed;
+          width: 100%;
+       }
+
      .bio-row{
          font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
          text-size-adjust: 20px;
